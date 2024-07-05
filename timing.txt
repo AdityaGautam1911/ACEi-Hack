@@ -1,0 +1,29 @@
+total patients in a particular day-1000
+avg wait time of one patient-10 mins
+
+
+average waiting time of each patient 
+
+
+remove blue from recovery
+add surgery completed section
+
+DAY CARE ROOM
+green-0-30 MIN
+blue-30-1HR
+red->1hr
+
+BLOCK ROOM
+green-0-30 MIN
+blue-30-1HR
+red->1hr
+
+OT ROOM
+green-0-45
+blue-45-1hr
+red->1hr
+
+RECOVERY ROOM
+green-1hr
+blue->1hr
+red->2hr

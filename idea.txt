@@ -1,0 +1,6 @@
+existing system
+problems with the existing system
+our proposed solution
+snaps/video of the solution
+about the model and parameters used in arima
+future enhancemnts
